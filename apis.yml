@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/phone-spec
 name: Phone Specification
 description: "Rest Api for Phone specifications"
 url: https://github.com/azharimm/phone-specs-api
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
