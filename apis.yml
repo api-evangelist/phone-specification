@@ -39,7 +39,6 @@ apis:
   - name: Phone Specification
     description: "Rest Api for Phone specifications"
     humanURL: https://github.com/azharimm/phone-specs-api
-    baseURL: https://github.com/azharimm/phone-specs-api
     tags:
       - Phone
     properties:
